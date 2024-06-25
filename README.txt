@@ -3,9 +3,7 @@
 ## Встановлення
 
 1. Клонувати репозиторій:
-   ```sh
-   git clone <repository_url>
-   cd <repository_directory>
+git clone https://github.com/Mir1a/test_project_for_Property_House.git
 
 2. Створити віртуальне середовище та активувати його:
 python -m venv venv
