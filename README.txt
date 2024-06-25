@@ -15,8 +15,6 @@ pip install -r requirements.txt
 4. Для запуску сервера використовуйте команду:
 uvicorn main:app --reload
 
-Рекомендую текст для тестування:
-
 Рекомендований текст для тестування API:
 
 Sarah and John traveled from London to Paris for their vacation.
